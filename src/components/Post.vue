@@ -29,8 +29,8 @@ export default {
   justify-content: space-between;
   align-items: center;
   padding: 15px;
-  border: 1px solid rgb(110, 89, 187);
+  border: 4px solid rgb(0 150 67);
   margin-top: 15px;
-  background-color: rgb(237, 219, 253);
+  background-color: rgb(158 158 158 / 18%);
 }
 </style>

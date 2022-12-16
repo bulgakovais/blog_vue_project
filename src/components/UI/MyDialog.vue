@@ -32,15 +32,12 @@ export default {
   background: rgba(0, 0, 0, 0.5);
   display: flex;
   position: fixed;
-  /* justify-content: center;
-  align-items: center; */
 }
 .dialog-window {
   margin: auto;
   padding: 20px;
   background-color: white;
-  border-radius: 12px;
-  min-width: 300px;
-  min-height: 50px;
+  border-radius: 5px;
+  min-width: 400px;
 }
 </style>
